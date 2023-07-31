@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maya202020
-- 👀 I’m interested in programming Lidar Optical Lidar and GIS 
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning how to use GITHUB 
-- 💞️ I’m looking to collaborate on Zalf and learn through it 
+
   
 
 <!---
